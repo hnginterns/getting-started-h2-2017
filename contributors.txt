@@ -25,4 +25,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (24) Daniella Mato, @daniella, dmpire
 (25) Ademola Abisayo Paul, @sayopaul , sayopaul2
 (26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
-New Name: Ememobong Akpanekpo (slack:ememobong_akpanekpo, email:emayoung95@gmail.com)
+(27) Ememobong Akpanekpo (slack:ememobong_akpanekpo, email:emayoung95@gmail.com)
