@@ -19,3 +19,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (18) Michael Okoh, @trojan, ichtrojan
 (19) David Ukauwa
 Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
+Adeboga Abigail, 
