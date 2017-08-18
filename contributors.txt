@@ -22,3 +22,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
 (22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
 (23) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
+(25) [name: "Timi Omoyeni", github: "timibadass", slack: "timi"];
