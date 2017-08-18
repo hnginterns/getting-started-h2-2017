@@ -39,4 +39,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (37) Olatunbosun Gabriel, @bosunski, bosunski
 (38) Alexandrix Ikechukwu, cornevan, SpaghettiThots
 (39) Donald Mezie slack:@snowweb , Github:Nobsmoke123
+(40) Essien Saviour Aniefiok Slack:@essien
 
