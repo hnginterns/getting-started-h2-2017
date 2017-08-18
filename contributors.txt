@@ -40,4 +40,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (39) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng)
 (40) Chike Ononye, @chykeofficial, kosychike 
 (41) Damilola Omoyiwola, @princessdee, damomos
+(42) Afoma Kevin, github:Kentalogues, slack:@kevkentalogues
 
