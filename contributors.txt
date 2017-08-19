@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
 (1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
@@ -45,3 +46,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (44) Osideinde Oluwadara, @holumiede, holumiede
 (45) Ojosipe-Isaac Mofopefoluwa, @MofopeOjosh, @mofope_ojosh
 (46) Salako Adetunji Abdulhaq,(github: teejay13, slack: @teejay_salako)
+>>>>>>> refs/remotes/hnginterns/MofopeOjosh-patch-1
+ (47) Andy Eshiet , mathemandy, mathemandy
