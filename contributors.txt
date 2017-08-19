@@ -96,3 +96,4 @@
 (96) Idorenyin Obong (Slack:idee, Github: KingIdee)
 (97) Opeyemi Olawale,(@tanthum,@waleHg) 
 (98) Shalom John (Slack: shalomjohn, Github: otuekongjohn)
+(99) Daniel Folashade (Slack: beccadaniels, Github: beccadaniel)
