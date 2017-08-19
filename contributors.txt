@@ -65,3 +65,4 @@
 (65) Okoh Ify   (slack: @ify, github: @Ifyokoh)
 (66) Orie Chinedu Emmanuel (Slack: @oriechinedu Github: @oriechinedu)
 (67) Trust Akpobome (Slack: @controltam Github: @controltam)
+(68) Suleiman Abdulmajeed (slack: @suleimanmajiyd) github: @majiyd
