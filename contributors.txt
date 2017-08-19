@@ -101,3 +101,4 @@
 (83) Peter Peregbakumo (Slack: peterperez, Github: peterperez)
 (84) SOMTOO OKAFOR (Slack:okaforsomtoo, Github: okaforsomtoo)
 (85) Idorenyin Obong (Slack:idee, Github: KingIdee)
+(86) Ememobong Akpanekpo (slack:ememobong_akpanekpo, github:emayoung)
