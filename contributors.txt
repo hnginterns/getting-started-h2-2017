@@ -21,6 +21,7 @@
 (21) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
 (22) Daniella Mato, @daniella, dmpire
 (23) Enyi-Christopher Joshua, christofajosh, christofajosh
+(23) Enyi-Christopher Joshua, christofajosh, christofajosh 
 (24) Ademola Abisayo Paul, @sayopaul , sayopaul2
 (25) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
 (26) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
@@ -33,6 +34,10 @@
 (33) Donald Mezie slack:@snowweb , Github:Nobsmoke123
 (34) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng)
 (35) Chike Ononye, @chykeofficial, kosychike
+(32) Prosper Nweze, @prosperoking ,@prosperoking 
+(33) Donald Mezie slack:@snowweb , Github:Nobsmoke123
+(34) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng)
+(35) Chike Ononye, @chykeofficial, kosychike 
 (36) Damilola Omoyiwola, @princessdee, damomos
 (37) Dike Thelma, @dikethelmak, matilbella
 (38) Hogan Damilola Jerry, <slack:@hdaarme> <github: hdjerry>
