@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-(1) Nwanze Franklin
-(2) Dare Sunday
-(3) Andy Eshiet
-=======
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
 (1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
@@ -16,7 +11,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
-(13) John Otu, johnotu, johnotu
+(13) John Otu
 (14) Alaba Mustapha
 (15) Adeshina Ibrahim
 (16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
@@ -45,10 +40,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (39) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng)
 (40) Chike Ononye, @chykeofficial, kosychike 
 (41) Damilola Omoyiwola, @princessdee, damomos
-(42) Hogan Damilola Jerry, <slack:@hdaarme> <github: hdjerry>
-(43) James James John, @jamesjay4199, @jamesjay4199
-(44) Osideinde Oluwadara, @holumiede, holumiede
-(45) Ojosipe-Isaac Mofopefoluwa, @MofopeOjosh, @mofope_ojosh
-(46) Salako Adetunji Abdulhaq,(github: teejay13, slack: @teejay_salako)
->>>>>>> refs/remotes/hnginterns/MofopeOjosh-patch-1
- (47) Andy Eshiet , mathemandy, mathemandy
+(42) Dike Thelma, @dikethelmak, matilbella
+(43) Agunloye Oluwatobiloba, (GitHub: @TobiLight, Slack: tobilight)
+(44) Ayodeji Bayo-Makinde, ayobaymak, ayobaymak
+
