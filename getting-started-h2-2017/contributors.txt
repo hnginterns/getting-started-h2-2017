@@ -61,3 +61,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (60) Timothy Olaleke, @timtech4u, timtech4u
 (61) Kebe Eyong (slack:kebeeyong, github:kebeeyong)
 (62) Okunade Lukman (slack: okunadelukmon, github: lokunadehngintern)
+(63) Tolu Faith (slack: imani, github: ToluImani)
+64. Lasisi Tosin (slack: ridwan, github: ridwan099)
