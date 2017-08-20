@@ -123,3 +123,4 @@
 (122) Jordan Irabor (slack: castillo_ github: Jordanirabor)
 (123) Nwaoduh Ezinna (slack: ezinna7, github: ezinna7)
 (124) Abdulsamad Aliyu (slack: abdulsamadaliyu17, github: abdulsamad234)
+(125) Ememobong Akpanekpo (slack:ememobong_akpanekpo, github:emayoung)
