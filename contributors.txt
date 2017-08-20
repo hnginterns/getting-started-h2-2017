@@ -129,4 +129,8 @@
 (126) Timothy Olaleke, @timtech4u , timtech4u
 (127) Victor Bala (slack: savicsly, github: savicsly)
 (128) Fiyin Adeyera (slack:Fiyin, github:Fiyin)
-(129) jacob okoro (slack:jaycobokoro4, github)
+
+(129) jacob okoro (slack:jaycobokoro4, github:rheinchester)
+=======
+(129) Ray Okaah, (Slack:raypex, github:raypex)
+
