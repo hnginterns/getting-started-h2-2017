@@ -60,3 +60,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (59) Hogan Damilola Jerry <Slack:@hdaarme> , <github:hdjerry>
 (60) Timothy Olaleke, @timtech4u, timtech4u
 (61) Kebe Eyong (slack:kebeeyong, github:kebeeyong)
+(62) Okunade Lukman (slack: okunadelukmon, github: lokunadehngintern)
