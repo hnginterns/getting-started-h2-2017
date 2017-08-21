@@ -131,4 +131,33 @@
 (131) Chukwuma David (slack:lilbrizzeey, github:lilbrizzeey)
 (132) Kebe Eyong (slack:kebeeyong, github:kebeeyong)
 (133) Nwokorobia Ugochukwu,uhexos,uhexos
-(134) Ifunanya Ukachukwu,iyfe,iyfe
+(134) Ememobong Akpanekpo (slack:ememobong_akpanekpo, github:emayoung, email:emayoung95@gmail.com)
+(135) Onyemenam Ndubuisi, @prondubuisi, NdubuisiO
+(136) Tolu Faith (slack: imani, github: ToluImani)
+(137) Andikan Usenmfon Affiah, slack:@andikan, github:@enactor
+(138) Lasisi Tosin (slack: ridwan, github: ridwan099)
+(139) John Ayeni, slack:@johnayeni10, github:JohnAyeni
+(140) Okoro Ogechi (slack: @ogechiokoro, github:ogechiokoro)
+(141) Okokon Christopher Ntuk (slack: @chrix95, github: @chrix95)
+(142) Daniel Archibong (slack: @archibongdaniel13, github: @danielcomputer) 
+(143) Ajayi Thadeus (Slack: @ainoije, github: @ThadeusAjayi)
+(144) Nnaemeka Ukpa (Slack: @emekaprosper, github:@emekaProsper)
+(145) Okwara Ebuka (slack: @okwaraebuka, github:fletcherin)
+(146) Ayotunde Doherty (Slack: the_tunde_doherty, github: thetundedoherty)
+(147) Okwara Ebuka (slack: @okwaraebuka, github:fletcherin )
+(148) SOMTOO OKAFOR (Slack:okaforsomtoo, Github: okaforsomtoo)
+(149) Warrie Usenobong(slack: @warrie, github: @warrienelly)
+(150) Gabriel Stephen (slack:@cyberdroidmann, github:cyberdroidmann)
+(151) Aderinto Sadiq (slack:@sadiq, github:@aderintosadiq)
+(152) Oluchi Onyekpa (slack: @am-oluchii, Github: @oluchii)
+(153) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu)
+(154) Nsenam Udoh (slack: nsenam, github: nse4real)
+(155) Olivia Chisom (slack: seraphlivia, github: Seraphic95)
+(156) Mfonobong Umondia (Slack: mfonobong, Github: MfonobongD)
+(157) Tejumola David Timmy,timicodes,timi-codes;
+(158) Alimi Kehinde Morufudeen (Slack: @marusoft, Github: @marusoft)
+(159) Iniobong Daniel (Slack: @opinerdan, github: @opiner)
+(160) Ohue John (Slack: @itoohue, github:  @JohnItoo)
+(161) Chinanu Okereke, @chiqokereke, chiqokereke
+(162) Nwauwa Victor Ifeanyi(Slack:@vicklight93, Github:@vicklight)
+(163) Ifunanya Ukachukwu,iyfe,iyfe
