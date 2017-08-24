@@ -76,19 +76,26 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (73) Joda Opemipo, opsijay, Zaida-3dO 
 (74)Saheed Oladele (slack: kayrode1, github:suretrust)
 (75) Shittu Maroof Ayotunde, (slack: @maroof, github: dbugshe2)
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 (76) Taofeek Aderoju (slack: @prolifichands, github: taotara)
 (77) Oluwatosin Akande (slack : tosinakande, github : tosinakande) 
+>>>>>>> ba6e1428891be55b5c4c9820d6d1c97d9a5df2c3
+=======
 (76) Taofeek Aderoju (slack: @prolifichands, github: taotara)
 (77) Oluwatosin Akande (slack : tosinakande, github : tosinakande) 
+<<<<<<< HEAD
 (78) Celestine Ekoh-Ordan, ceoehis, ceoehis
+=======
 (78) Ekebo Brown Etuk (slack: brownish, github: brown-son)
+>>>>>>> (79) Udofia Enwongo (slack:@enwong_o, github:enwong01) daf6016518cd547a70eec44e1d7c51efd8af7933
+>>>>>>> bcdd0601c3459728641402845dac67194a8b5004
 (80) Mercy Michael Ikpe (Github: mercyikpe, Slack: mercy ikpe)
+<<<<<<< HEAD
 (81) Nsikak John (Slack: nsikakjon, Github: nsikakjon)
 (82) Ashefor Michael (slack: @michael, github: ashefor)
+=======
 (81) Nsikak John (Slack: nsikakjon, Github: nsikakjon)
-(83) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)
-(84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)
- Akinokun Elizabeth (slack: @akinokunlisa, github: @akinokunlisa)		 +(83) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)		 +(84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)
-(85) Fagbemi Oluwaseun, xeunskate, xeunskate
-(86) Agbor Ebam John, @jeshurun, ebam1
-(87) Isaac Etukudo, topic, isaacetukudo
+>>>>>>> 74157d5f843948d1cbdefd44b0b3d01bfe265629
+======(78) Udofia Enwongo (slack:@enwong_o, github:enwong01)
