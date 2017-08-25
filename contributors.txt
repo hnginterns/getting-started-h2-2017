@@ -1,4 +1,4 @@
-﻿
+
 ﻿(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday (github: thenameisdrey) (slack: thedrey)
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
@@ -317,3 +317,4 @@ Adebola Shalom, Slack:Shalombrain, Github: Shalombrain
 Danie Ukwu, (slack: @chistel, github: @chistel)
 (103) Anwunah Sobechukwu (slack: missjay2805 github: Jhay95)
 (104) Alexander Ikelia (slack:@alex, github: @alexikelia)
+musa ibrahim (slack:@darangi, github:@darangi)
