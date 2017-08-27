@@ -1,5 +1,5 @@
 <?php
-include_once 'config.php';
+include_once 'config_file.php';
 class MyPDO {
 	public $connection;
 	private $statement;
@@ -23,4 +23,3 @@ class MyPDO {
 	}	
 }
 $database = new MyPDO();
-?>

@@ -14,10 +14,10 @@
 /*
 	$sql = "UPDATE students SET status = '0' WHERE mat_no = 'U2014/5575017'";
 */
-	$database->connection->query($sql);
-	
 	$sql = "SELECT * FROM students";
 
+	$database->connection->query($sql);
+	
 	$result = $database->connection->query($sql);
 
 	$results = $result->fetchAll(PDO::FETCH_CLASS,'students');
@@ -26,4 +26,3 @@
 		echo $obj->mat_no.' = > '.$obj->get_fullname().' = > '.$obj->status.'<br>';
 	}
 	
-?>
